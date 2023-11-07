@@ -8,10 +8,9 @@ Milestones and activities:
 Followed following milestones plan:
 
 Milestone 1: (~ 2 Weeks) 31 Dec 2022
-
 Data loading and preprocessing.
-Milestone 2: (~ 2 weeks) 15 Jan 2023
 
+Milestone 2: (~ 2 weeks) 15 Jan 2023
 Building baseline model.
 Tune hyperparameters of the model.
 
